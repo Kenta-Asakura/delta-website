@@ -1,7 +1,12 @@
 import React from "react";
+import { Container } from "./components/styles/Container.styled";
 
 function App() {
-  return <div className="App">Test</div>;
+  return (
+    <Container>
+      <h1>Test</h1>
+    </Container>
+  );
 }
 
 export default App;
