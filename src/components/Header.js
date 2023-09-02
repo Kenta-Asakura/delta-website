@@ -30,8 +30,6 @@ export default function Header() {
 
           <Image src='./images/illustration-mockups.svg' alt='' />
         </Flex>
-
-        <h1>Hubble</h1>
       </Container>
     </StyledHeader>
   );
