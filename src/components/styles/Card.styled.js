@@ -9,4 +9,8 @@ export const StyledCard = styled.div`
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   margin: 40px;
   padding: 60px;
+
+  img {
+    width: 80%;
+  }
 `
