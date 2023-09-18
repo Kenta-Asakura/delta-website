@@ -5,6 +5,10 @@ export const StyledFooter = styled.footer`
   color: #fff;
   padding: 100px 0 60px;
 
+  img {
+    margin-bottom: 24px;
+  }
+
   ul {
     list-style-type: none;
   }
