@@ -7,13 +7,13 @@ export default function SocialIcons() {
     <StyledSocialIcons>
 
       <li>
-        <a href='https://twitter.com/?' target='_blank'>
+        <a href='https://twitter.com/?' target='_blank'  rel="noopener noreferrer">
           <FaTwitter />
         </a>
-        <a href='https://www.facebook.com/' target='_blank'>
+        <a href='https://www.facebook.com/' target='_blank'  rel="noopener noreferrer">
           <FaFacebook />
         </a>
-        <a href='https://www.linkedin.com/' target='_blank'>
+        <a href='https://www.linkedin.com/' target='_blank'  rel="noopener noreferrer">
           <FaLinkedin />
         </a>
       </li>
